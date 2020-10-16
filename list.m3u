@@ -80,3 +80,40 @@ https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",VAJTSWV TXOJLUS
 https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
+
+#EXTINF:-1,tvg-country="TH" group-title="Radio",радио 
+http://112.121.151.133:8140/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",radio 4
+http://112.121.151.133:8001/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",A Y Radio
+http://112.121.151.133:8010/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",Radio
+http://112.121.151.133:8003/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",namo radio
+http://112.121.151.133:8011/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",Radio Kwun
+http://112.121.151.133:8031/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",Radio
+http://112.121.151.133:8114/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",namo radio 2
+http://112.121.151.133:8118/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",106.5
+http://112.121.151.133:8120/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",sps radio
+http://112.121.151.133:8140/stream
+#EXTINF:-1,tvg-country="TH" group-title="Radio",autodj
+http://112.121.151.133:8009/autodj
+#EXTINF:-1,tvg-country="TH" group-title="Radio",autodj
+http://112.121.151.133:8009/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",My Station
+http://112.121.151.133:8038/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",live
+http://112.121.151.133:8252/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",น้ำทิพย์ อ้อยใจ radio 4
+http://112.121.151.133:8001/stream
+#EXTINF:-1,tvg-country="TH" group-title="Radio",stream
+http://112.121.151.133:8108/stream
+#EXTINF:-1,tvg-country="TH" group-title="Radio",live
+http://112.121.151.133:8123/live
+#EXTINF:-1,tvg-country="TH" group-title="Radio",live
+http://112.121.151.133:8000/live
