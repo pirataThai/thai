@@ -52,5 +52,11 @@ http://live.thairath.co.th/trtv2/playlist.m3u8?checkedby:hlscat.com
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",Test
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",Lao Muslim TV
 https://livefta.malimarcdn.com/ftaedge00/ddtvlao.stream/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",OH MUANG LAO LIVE
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",GOOD IDEA TV
+https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",TEA TV
+https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
