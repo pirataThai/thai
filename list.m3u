@@ -64,3 +64,13 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DAO LANE XANG
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",ADL USA TV
+https://livefta.malimarcdn.com/ftaedge00/adlusatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",LAO THAI TV
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",AIR TV
+https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",VAJTSWV TXOJLUS
+https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
