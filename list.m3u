@@ -1,0 +1,54 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
+http://news1.live14.com/stream/news1_hi.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="KH;TH" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",Bayon TV,bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/bYMtfRn.png" group-title="Undefined",MCOT 30
+http://183.182.100.184/live/mcothd/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Undefined",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" group-title="Undefined",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/Glr0CJE.png" group-title="Undefined",NBT Central
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="News",News 1
+http://news1.live14.com/stream/news1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="Undefined",ONE HD
+http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="Undefined",ONE HD
+https://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/cypjz3P.png" group-title="Undefined",PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/a9AVj65.jpg" group-title="Undefined",Series
+http://203.154.243.31:8081/live/series/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/wVednTk.png" group-title="Undefined",Suwannabhumi TV
+http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/aNExu5R.jpg" group-title="Undefined",TGN
+https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="Undefined",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Undefined",Thai PBS (Opt-4)
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Undefined",Thai PBS 3
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Undefined",Thai TV 7
+https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/0AiJcrC.png" group-title="Undefined",Thairath TV 32
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/0AiJcrC.png" group-title="Undefined",Thairath TV 32
+http://live.thairath.co.th/trtv2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",Yateem TV (New!)
+https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8?checkedby:hlscat.com
