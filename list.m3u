@@ -14,6 +14,8 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8?checkedby:hlscat.com
 http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="News",News 1
 http://news1.live14.com/stream/news1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="News",World Animal
+http://203.154.243.32:8088/live/wanimal/index.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="Undefined",ONE HD
 http://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/CQYsYBM.png" group-title="Undefined",ONE HD
