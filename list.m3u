@@ -60,3 +60,7 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",TEA TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",BRYAN TV
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DAO LANE XANG
+https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
