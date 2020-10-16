@@ -80,7 +80,58 @@ https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",VAJTSWV TXOJLUS
 https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
-
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",5 HD
+http://119.59.125.74/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6&.m3u
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",7 HD
+http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 1
+http://119.59.125.74/stream/totnew.php?channel_id=f128d0ea3136406d9c1cc7db91db03da
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 2
+http://119.59.125.74/stream/totnew.php?channel_id=8b4d5e8c92d44caf8ee144ce5cc5cd80
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",TRUE SELECT
+http://119.59.125.74/stream/totnew.php?channel_id=cfffb0635bcb4b97a8e91603c69e1f6e
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",TVD
+http://119.59.125.74/stream/totnew.php?channel_id=76016b912470441b989613999c7e6862
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",TPTV
+http://119.59.125.74/stream/totnew.php?channel_id=e1464d4ef4aa4bbc972073bb4ebe17fd
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",THAI GLOBAL NETWORK
+http://119.59.125.74/stream/totnew.php?channel_id=e362c185f33d4e2d8ae8921cbff3ca4e
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",MONO 29
+http://119.59.125.74/stream/totnew.php?channel_id=fd23603db67344c69a8304a2fca268cd
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",GMM 25
+http://119.59.125.74/stream/totnew.php?channel_id=ab0b43ef8363438098a94101e93ca138
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",Thairath HD
+http://119.59.125.74/stream/totnew.php?channel_id=b1bc90419ccb4885bb0b544bb2b8ee83
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",AmarinTV
+http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",3 HD
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 3
+http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
+http://119.59.125.74/stream/totnew.php?channel_id=cf271364f6a64785932af875007bc0f7
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 4
+http://119.59.125.74/stream/totnew.php?channel_id=2b73e3b7fe1d4c7c885881b122288d9c
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 5
+http://119.59.125.74/stream/totnew.php?channel_id=ab578d13d39d41b8b23dfda094550165
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 6
+http://119.59.125.74/stream/totnew.php?channel_id=c8634a9ba7db4580bf486cad2efdba5c
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 7
+http://119.59.125.74/stream/totnew.php?channel_id=eeeb920c736845dfbf79b5d6f39efbec
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 8
+http://119.59.125.74/stream/totnew.php?channel_id=cd5f167f6d7041b295f8173323f9b332
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 9
+http://119.59.125.74/stream/totnew.php?channel_id=3b1edacbb4194fd4ae7c787fffddeceb
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 10
+http://119.59.125.74/stream/totnew.php?channel_id=54841b55e45546b6b4ba4cc3ba4b5440
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 11
+http://119.59.125.74/stream/totnew.php?channel_id=659562d7cd394e06bf5a2cd2e743bcf5
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 12
+http://119.59.125.74/stream/totnew.php?channel_id=62a16d17536546629b1daa819e43470e
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 13
+http://119.59.125.74/stream/totnew.php?channel_id=a358daf318cf46a2aeafa01a3644f5f0
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 14
+http://119.59.125.74/stream/totnew.php?channel_id=8b3884226a024af4ba6d89d10afb2194
+#EXTINF:0 tvg-country="TH" tvg-logo="https://www.nettv.live/uploads/19/1-19111QI55W03.jpg" group-title="Undefined",DLTV 15
+http://119.59.125.74/stream/totnew.php?channel_id=f9603f5472034de7b897f30f1c687b84
 #EXTINF:-1,tvg-country="TH" group-title="Radio",радио 
 http://112.121.151.133:8140/live
 #EXTINF:-1,tvg-country="TH" group-title="Radio",radio 4
